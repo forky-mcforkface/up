@@ -10,7 +10,7 @@
   , "dependencies": {
         "eq": "0.1.0"
       , "ms": "0.1.0"
-      , "debug": "0.1.0"
+      , "debug": "2.6.9"
       , "commander": "0.6.1"
       , "distribute": "0.1.4"
     }
