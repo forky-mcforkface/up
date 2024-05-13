@@ -9,7 +9,7 @@
   , "engines": { "node": ">= 0.6.0" }
   , "dependencies": {
         "eq": "0.1.0"
-      , "ms": "0.1.0"
+      , "ms": "2.0.0"
       , "debug": "0.1.0"
       , "commander": "0.6.1"
       , "distribute": "0.1.4"
